@@ -1,0 +1,12 @@
+﻿{
+  "Id": "7PtMU2xNKUWv3IWKoeYDMg",
+  "Reference": "OCawoFBNfkOlC-eLamlvOQ/7PtMU2xNKUWv3IWKoeYDMg",
+  "Name": "Employee Details - Notepad",
+  "Type": "App",
+  "Created": "2022-04-17T13:21:40.8183437Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-17T13:21:40.8183437Z"
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Id": "xP48P_abEU-s4avdW_Csgw",
+  "Reference": "OCawoFBNfkOlC-eLamlvOQ/xP48P_abEU-s4avdW_Csgw",
+  "ParentRef": "OCawoFBNfkOlC-eLamlvOQ/7PtMU2xNKUWv3IWKoeYDMg",
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Created": "2022-04-17T13:21:40.9224678Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-17T13:21:40.9224678Z"
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="filPhwFr7UWoQCnFt9IH3Q" DesignTimeRectangle="304, 155, 105, 37" ElementType="Button" FriendlyName="'&amp;Yes'" FullSelectorArgument="&lt;wnd aaname='Confirm Save As' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Yes' cls='Button' title='&amp;amp;Yes' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Confirm Save As' cls='DirectUIHWND' /&gt;&lt;wnd aaname='Yes' cls='Button' title='&amp;amp;Yes' check:text='&amp;amp;Yes' /&gt;" Guid="d85a661b-25a8-4a9e-8e3e-d6cbcb09bf14" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32770' title='Confirm Save As' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0_2UYj_5OjkyOysRwjziTRQ</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c8703ffcfbf8a651e34db82ee6972f23.png" xmlns="">0421lRBzrbEGw2X6htpzvHw</imageRef>
+</TargetAnchorable>

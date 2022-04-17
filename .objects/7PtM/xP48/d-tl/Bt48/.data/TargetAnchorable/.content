@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="81fcxzsmrEqtCV0p4-MIaw" DesignTimeRectangle="202, 541, 710, 27" ElementType="InputBox" FriendlyName="'Employee Details'" FullSelectorArgument="&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='File name:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Explorer Pane' cls='DirectUIHWND' /&gt;&lt;wnd aaname='File name:' cls='ComboBox' /&gt;&lt;wnd ctrlid='1001' /&gt;" Guid="7249e4ab-f4a6-48dd-be67-a334b8f92dfb" ScopeSelectorArgument="&lt;wnd app='notepad.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0kqY8NCeXrEGMUSM8S5MKKw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="45f9f1b728e2c9e7b1156b786f21ef55.png" xmlns="">097m-AOa2-0i-Iwejrqeuug</imageRef>
+</TargetAnchorable>

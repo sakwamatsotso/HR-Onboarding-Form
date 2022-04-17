@@ -1,0 +1,13 @@
+﻿{
+  "Id": "d-tlIvnC7UuDoUNceqpfHg",
+  "Reference": "OCawoFBNfkOlC-eLamlvOQ/d-tlIvnC7UuDoUNceqpfHg",
+  "ParentRef": "OCawoFBNfkOlC-eLamlvOQ/xP48P_abEU-s4avdW_Csgw",
+  "Name": "Employee Details - Notepad",
+  "Type": "Screen",
+  "Created": "2022-04-17T13:21:40.9355627Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-04-17T13:21:40.9355627Z"
+}
